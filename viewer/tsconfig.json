@@ -1,0 +1,17 @@
+{
+  "compilerOptions": {
+    // "module": "commonjs",
+    "target": "es5",
+    "outFile": "game.js",
+    "removeComments": true,
+    "noImplicitAny": true,
+    "noImplicitReturns": true,
+    "noImplicitThis": true,
+    "suppressImplicitAnyIndexErrors": true,
+    "sourceMap": false
+  },
+  "include": [
+    "libs/**/*.ts",
+    "src/**/*.ts"
+  ]
+}

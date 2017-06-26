@@ -1,0 +1,29 @@
+{
+  "name": "ResViewer",
+  "version": "1.0.0",
+  "description": "resource viewer",
+  "main": "index.js",
+  "scripts": {
+    "start": "electron index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "."
+  },
+  "keywords": [
+    "Electron"
+  ],
+  "author": "hoodinn",
+  "license": "CC0-1.0",
+  "devDependencies": {
+    "devtron": "^1.4.0"
+  },
+  "dependencies": {
+    "compare-versions": "^3.0.0",
+    "electron-window": "^0.8.1",
+    "electron-window-state-manager": "^0.3.0",
+    "fs-extra": "^1.0.0",
+    "nconf": "^0.8.4",
+    "shell-path": "^2.1.0"
+  }
+}

@@ -1,0 +1,14 @@
+.DS_Store
+Thumbs.db
+*.bak
+node_modules
+bin
+release
+res
+laya/assetsbig
+laya/assets
+laya/assets/sheets
+laya/assets/atlas
+src/gen
+index.html
+app.js
